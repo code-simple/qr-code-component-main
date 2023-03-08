@@ -34,6 +34,7 @@ p {
 }
 
 h3{
+    color: hsl(218, 44%, 22%);
     font-size: 20px;
     text-align: center;
 }
