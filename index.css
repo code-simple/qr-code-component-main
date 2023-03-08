@@ -3,8 +3,7 @@
 body{
     background: hsl(212, 45%, 89%);
     font-family: 'Outfit', sans-serif;
-    justify-content: center;
-    margin-top: 15%;
+    margin-top: 10%;
 
 }
 .container{
@@ -24,8 +23,8 @@ body{
 }
 
 .card img {
-    width: 250px;
-    height:250px;
+    width: 300px;
+    height:300px;
     border-radius: 10px;
 }
 p {
